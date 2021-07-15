@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.home_bg{
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.home_head{
+    top: 25%;
+    left: 30%;
+    right:30%;
+}
+
+.home_bottom{
+    top:75%;
+    left: 30%;
+    right:30%;
+}
+
+.icon{
+    font-size: 55px;
+    color: rgb(62, 62, 250);
+}
